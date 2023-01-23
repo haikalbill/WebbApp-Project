@@ -51,7 +51,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="#hero">Home</a></li>
-          <li><a href="/homepage">Logout</a></li>
+          <li><a href="/">Logout</a></li>
           {{-- <li><a href="#contact">About Us</a></li> --}}
         </ul>
       </nav><!-- .navbar -->
@@ -87,8 +87,8 @@
           <div>
             <h4>Any Queries</h4>
             <p>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              <strong>Phone:</strong> +1 2233 445566 77<br>
+              <strong>Email:</strong> goodfood@gmail.com<br>
             </p>
           </div>
         </div>
@@ -118,9 +118,7 @@
     </div>
 
     <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Yummy</span></strong>. All Rights Reserved
-      </div>
+
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
